@@ -10,5 +10,11 @@ Here is a link to the article:
 
 https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/?source=post_page-----56b0d9de2c43--------------------------------
 
+### Alex's Input  
+
+This was actually a very interesting article. In the Air Force, we have a saying: no matter what you fly, you're eventually gonna fly a desk. It means that as you progress in your career, you're going to hit a point where your job becomes to lead people as opposed to flying an airplane. I never even considered that there would be a similar processes for civillian software engineers.  
+
+There is a lot of similar discussion on the Air Force side that the current paradigm is a poor use of resources, and it seems that discussion carries over as well.
+
 
 
